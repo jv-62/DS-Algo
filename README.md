@@ -1,1 +1,1 @@
-# DS-Algo
+# DS-Algo-JS
